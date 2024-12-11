@@ -12,6 +12,7 @@
             <ColorPicker fx:id="colorPicker" prefWidth="200" />
         </VBox>
     </top>
+
     <center>
         <Canvas fx:id="canvas" height="400" onMouseClicked="#drawShape" width="589.0" />
     </center>
